@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Gabriela Maria Cordon's Website
+title: Gaby's Website
 
 # Your name to show in the footer
-author: Gaby Cordon
+author: Gabriela Maria Cordon
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -145,8 +145,8 @@ navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 footer-col: "#031345"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-link-col: "#FFFFFF"
+footer-hover-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
