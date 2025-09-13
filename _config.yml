@@ -50,7 +50,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "gmc1@williams.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
@@ -136,15 +136,15 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#00134D"
+page-col: "#071030"
 text-col: "#FFFFFF"
 link-col: "#001352"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#031345"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#031345"
+footer-text-col: "#FFFFFF"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
