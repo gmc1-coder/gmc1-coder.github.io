@@ -1,13 +1,9 @@
 ---
-layout: post
-title: From NYC to WILLIAMSTOWN 
-subtitle: there's lots to learn
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
-author: Gaby
+layout: post 
+title: A Post with a Header Image
+subtitle: How might we elimnate this unnecessary subtitle?
+bigimg: /img/path.jpg
+tags: [image, text, test]
 ---
-###My second post!
+
 
