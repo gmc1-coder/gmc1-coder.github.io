@@ -9,7 +9,7 @@ comments: true
 mathjax: true
 author: Gaby
 ---
-###My first post!
+### My first post!
 
 My name is **Gabriela Maria Cordón** (she/her). You can call me Gaby. I am a senior at Williams College. I am studying Art History and Studio Art with a concentration in Science and Technology Studies. 
 
@@ -21,5 +21,5 @@ This semester, I hope I will learn the basics of coding. My dad studied and my l
 
 Lastly, one boring fact about me is that I loved marine biology in middle school. 
 
-![Whale](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fwhale&psig=AOvVaw1F7XNA0fUC7xRyE1yJdt_p&ust=1758065351365000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKCuuPj1248DFQAAAAAdAAAAABAE) 
+![Whale](https://www.google.com/url?sa=i&url=https%3A%2F%2Fus.whales.org%2Fwhales-dolphins%2Ffacts-about-whales%2F&psig=AOvVaw1F7XNA0fUC7xRyE1yJdt_p&ust=1758065351365000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKCuuPj1248DFQAAAAAdAAAAABAp) 
 
