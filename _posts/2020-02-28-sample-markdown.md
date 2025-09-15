@@ -11,7 +11,7 @@ author: Gaby
 ---
 ### My first post!
 
-My name is **Gabriela Maria Cordón** (she/her). You can call me Gaby. I am a senior at Williams College. I am studying Art History and Studio Art with a concentration in Science and Technology Studies. 
+My name is **Gabriela Maria Cordón** (she/her). You can call me Gaby. I am a senior at Williams College. I am studying Art History and Studio Art with a concentration in Science and Technology Studies. Also, I intern at Williams College Museum of Art in the communications department. You can find their website, as well as Williams main website, under the resources tab! 
 
 I started taking sewing classes when I was nine years old. I learned how to make quilted pillows to princess lined dresses to tailored pants. I stopped taking classes at the end of my sixth year when I was fifteen. And i miss it dearly.
 
