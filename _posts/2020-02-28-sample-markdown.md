@@ -21,5 +21,7 @@ This semester, I hope I will learn the basics of coding. My dad studied and my l
 
 Lastly, one boring fact about me is that I loved marine biology in middle school. 
 
+avatar: "/assets/img/humpback-whale.jpg"
+
 ![Whale](https://www.google.com/url?sa=i&url=https%3A%2F%2Fus.whales.org%2Fwhales-dolphins%2Ffacts-about-whales%2F&psig=AOvVaw1F7XNA0fUC7xRyE1yJdt_p&ust=1758065351365000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKCuuPj1248DFQAAAAAdAAAAABAp) 
 
