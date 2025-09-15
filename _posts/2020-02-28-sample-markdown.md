@@ -19,6 +19,8 @@ I have little programming experience from freshman year of highschool but that l
 
 This semester, I hope I will learn the basics of coding. My dad studied and my little sister is currently studying computer science, so I hope I will be able to understand what they are talking about during Thanksgiving dinner. More seriously, I am excited to grow my patience and resilience this semester. So far, I can tell coding is detailed-oriented and specific (which is very daunting). Therefore, I hope that during the semester, I will get better at finding that one line or word of code thats stopping the code from working, and in doing so, proving to myself that I can learn something new. 
 
+!/assets/img/humpback-whale.jpg
+
 Lastly, one boring fact about me is that I loved marine biology in middle school. 
 
 /assets/img/humpback-whale.jpg
