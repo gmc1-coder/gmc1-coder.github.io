@@ -9,14 +9,17 @@ comments: true
 mathjax: true
 author: Gaby
 ---
+###My first post!
 
 My name is **Gabriela Maria Cordón** (she/her). You can call me Gaby. I am a senior at Williams College. I am studying Art History and Studio Art with a concentration in Science and Technology Studies. 
 
-I started taking sewing classes when I was nine years old. I learned how to make quilted pillows to princess lined dresses to tailored pants. I stopped taking classes at the end of my sixth year when I was fifteen. 
+I started taking sewing classes when I was nine years old. I learned how to make quilted pillows to princess lined dresses to tailored pants. I stopped taking classes at the end of my sixth year when I was fifteen. And i miss it dearly.
 
 I have little programming experience from freshman year of highschool but that learning is long forgotten.
 
-This semester, I hope I will learn about resilience and patience. So far, I can tell coding is detailed-oriented and specific, which is very daunting. I hope I will find that one line or word of code thats holding back the code from working, and in doing so, proving to myself that I can learn something new. 
+This semester, I hope I will learn the basics of coding. My dad studied and my little sister is currently studying computer science, so I hope I will be able to understand what they are talking about during Thanksgiving dinner. More seriously, I am excited to grow my patience and resilience this semester. So far, I can tell coding is detailed-oriented and specific (which is very daunting). Therefore, I hope that during the semester, I will get better at finding that one line or word of code thats stopping the code from working, and in doing so, proving to myself that I can learn something new. 
 
-Lastly, one boring fact about me is that   
+Lastly, one boring fact about me is that I loved marine biology in middle school. 
+
+![Whale](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fwhale&psig=AOvVaw1F7XNA0fUC7xRyE1yJdt_p&ust=1758065351365000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKCuuPj1248DFQAAAAAdAAAAABAE) 
 
