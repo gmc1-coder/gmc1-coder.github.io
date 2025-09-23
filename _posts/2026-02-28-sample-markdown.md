@@ -15,16 +15,3 @@ For the extra credit assignment, I created a cat with the printf function.
 
 ![Code](/assets/img/asciiart.png) 
 
-
-```c
-#include <stdio.h>
-int main ()
-{
-   printf("/l___/l \n");
-   printf("[* v * ] \n"); 
-
-   return 0;
-}
-
-```
-
