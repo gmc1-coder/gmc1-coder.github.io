@@ -4,7 +4,6 @@ title: Sewing Sampler!
 subtitle: 9 Different Stitches
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [sewing] [stitches]
 comments: true
 mathjax: true
 author: Gaby
