@@ -13,6 +13,9 @@ author: Gaby
 
 For the extra credit assignment, I created a cat with the printf function. 
 
+![Code](/assets/img/asciiart.png) 
+
+
 ```c
 #include <stdio.h>
 int main ()
