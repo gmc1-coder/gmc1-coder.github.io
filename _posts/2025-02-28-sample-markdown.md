@@ -14,7 +14,7 @@ I sewed nine different stitches where my two different additional sitches were t
 
 This is a photo of the front of the sampler. 
 
-![Whale](/assets/img/humpback-whale.jpg) 
+![Front](/assets/img/sewingsampler.png) 
 
 This is the back. 
 
