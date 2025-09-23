@@ -18,4 +18,4 @@ This is a photo of the front of the sampler.
 
 This is the back. 
 
-![Back](/assests/img/sewingsampler2.png)
+![Back](/assests/img/sewingsamplerback.png)
