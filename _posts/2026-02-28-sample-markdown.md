@@ -11,7 +11,7 @@ author: Gaby
 ---
 ### I designed a cat with Ascii!
 
-For the extra credit assignment, I created a cat with the printf function. 
+For the extra credit assignment, I created a cat with the print function. 
 
 ![Code](/assets/img/asciiart.png) 
 
