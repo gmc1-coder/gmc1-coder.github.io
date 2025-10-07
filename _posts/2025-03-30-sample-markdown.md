@@ -17,7 +17,7 @@ I wanted the dot in the "i" in "Williams" to be an LED. The moon shaped conduciv
 ![WilliamsF](/assets/img/williamsf.jpeg) 
 
 Here is a photo of the back:
-
+![WilliamsB](/assets/img/williamsb.jpeg) 
 
 Here is a photo of the alligator stage:
 I was practicing in sawyer.
