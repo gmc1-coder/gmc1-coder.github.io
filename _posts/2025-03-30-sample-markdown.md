@@ -9,10 +9,21 @@ comments: true
 mathjax: true
 author: Gaby
 ---
-### 
+The HW was to make a circuit with one LED, and two homemade switches: one from conductive thread patches and one from additional material.
+I used a paper clip as the additional material. 
+
+Here is a photo of the front:
+I wanted the dot in the "i" in "Williams" to be an LED. The moon shaped conducive fabric to follow the curve of the "S" in "Williams."
+![WilliamsF](/assets/img/humpback-whale.jpg) 
+
+Here is a photo of the back:
 
 
+Here is a photo of the alligator stage:
+I was practicing in sawyer.
 
-![Whale](/assets/img/humpback-whale.jpg) 
+
+Here is a photo of the paper prototype:
+
 
 
