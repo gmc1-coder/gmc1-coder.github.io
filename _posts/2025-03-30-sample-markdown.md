@@ -21,6 +21,7 @@ Here is a photo of the back:
 
 Here is a photo of the alligator stage:
 I was practicing in sawyer.
+![WilliamsAlligator](/assets/img/willyalligator.jpeg) 
 
 
 Here is a photo of the paper prototype:
