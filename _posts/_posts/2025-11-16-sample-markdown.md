@@ -10,8 +10,8 @@ mathjax: true
 author: Gaby
 ---
 
-
-
 Here is a photo of the paper prototype:
-![RGBLoop](/assets/img/RGBLoop.png) 
+![PaperPrototypeHeadband](/assets/img/paperprotoheadband.png) 
+
+
 
