@@ -29,7 +29,7 @@ Material List:
 
 Revised Prototype: 
 
-![finalalligator](/assets/img/finalalligator.png) 
+![finalpaperproto](/assets/img/finalalligator.png) 
 
 
 One Alligator Clip Circut Photo:
@@ -39,7 +39,7 @@ One Alligator Clip Circut Photo:
 
 Photo of at least 3 states of your working project (or video or gif) --> show what it looks like when it works 
 
-![finalalligator](/assets/img/finalalligator.png) 
+![final](/assets/img/finalalligator.png) 
 
 
 Tips for Past Self: 
